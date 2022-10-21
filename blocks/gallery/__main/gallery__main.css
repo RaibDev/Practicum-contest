@@ -29,10 +29,3 @@
     margin-top: 15px;
   }
 }
-/*
-@media screen and (max-width: 610px) {
-  .gallery__main {
-    grid-template-columns: 1fr;
-    margin: 35px 0 0;
-  }
-} */

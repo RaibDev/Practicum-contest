@@ -2,7 +2,6 @@
   margin: 0;
   position: relative;
   width: calc(100% - 2*30px);
-  /*background-color: #fff;*/
 }
 
 .gallery__figure::before {
@@ -27,11 +26,4 @@
   .gallery__figure:nth-last-of-type(2) {
     display: none;
   }
-} /*
-
-@media screen and (max-width: 610px) {
-  .gallery__figure:nth-last-of-type(3) {
-    display: none;
-  }
-}
-*/
+} 
