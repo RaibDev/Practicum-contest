@@ -1,6 +1,6 @@
 .road {
   box-sizing: border-box;
-  padding: 60px 0 60px 120px;
+  padding: 60px 0 0 120px;
   display: grid;
   grid-template-areas: 
     "title ."
@@ -42,6 +42,7 @@
 
 @media screen and (max-width: 340px) {
   .road {
+    padding-bottom: 0;
     grid-template-rows:  min-content fit-content(175px) min-content;
   }
 }
