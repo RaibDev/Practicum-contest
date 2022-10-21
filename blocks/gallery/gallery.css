@@ -5,6 +5,12 @@
   position: relative;
 }
 
+@media screen and (max-width: 1330px) {
+  .gallery {
+    margin: 120px 18px 40px;
+  }
+}
+
 @media screen and (max-width: 610px) {
   .gallery::before {
     content: ' ';
