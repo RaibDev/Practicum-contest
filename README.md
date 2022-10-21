@@ -14,3 +14,4 @@
 2. Дубовицкий Владимир.
 
 ###### Ссылка на GitHub Pages: 
+* https://raibdev.github.io/Practicum-contest/
