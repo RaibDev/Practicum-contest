@@ -12,13 +12,13 @@
   }
 }
 
-@media screen (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
   .gallery__main {
     grid-template-columns: repeat(2, fit-content(380px));
   }
 }
 
-@media screen and (max-width: 777px) {
+@media screen and (max-width: 787px) {
   .gallery__main {
     grid-template-columns: fit-content(380px);
   }
